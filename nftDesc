@@ -1,0 +1,23 @@
+{
+    "name": "Himadri Hostel",
+    "description": "College for 2-year B.Tech students.",
+    "image": "image_url",
+    "attributes": [
+        {
+            "trait_type": "Location",
+            "value": "City, Country"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Educational Institution"
+        },
+        {
+            "trait_type": "Program",
+            "value": "B.Tech"
+        },
+        {
+            "trait_type": "Duration",
+            "value": "2 years"
+        }
+    ]
+}
