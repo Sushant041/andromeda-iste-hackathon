@@ -1,7 +1,7 @@
 {
     "name": "Himadri Hostel",
     "description": "College for 2-year B.Tech students.",
-    "image": "image_url",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbRZx9zyECjGWUC0UVjjDfp6Z_zhnevNuQAq0BUhT3A&s",
     "attributes": [
         {
             "trait_type": "Location",
