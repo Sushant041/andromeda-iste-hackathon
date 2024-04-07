@@ -1,7 +1,7 @@
 {
     "name": "Big Buck Bunny",
     "description": "Animated video featuring Big Buck Bunny character.",
-    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "video": "https://raw.githubusercontent.com/Sushant041/neural_nav_final/main/website_neural_nav_final/static/d3.png",
     "attributes": [
         {
             "trait_type": "Genre",
