@@ -1,0 +1,15 @@
+{
+    "name": "AR PROJECT",
+    "description": "A PROJECT WHICH ALLOWS PEOPLE TO SEE REALTIME SIGN LANGUAGE ON SCREEN",
+    "image": "https://content.instructables.com/FP9/DPT6/K6QVRPOC/FP9DPT6K6QVRPOC.jpg?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=150",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
