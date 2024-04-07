@@ -1,0 +1,23 @@
+{
+    "name": "Big Buck Bunny",
+    "description": "Animated video featuring Big Buck Bunny character.",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "attributes": [
+        {
+            "trait_type": "Genre",
+            "value": "Animation"
+        },
+        {
+            "trait_type": "Length",
+            "value": "Approximately 10 minutes"
+        },
+        {
+            "trait_type": "Resolution",
+            "value": "1080p"
+        },
+        {
+            "trait_type": "Creator",
+            "value": "Blender Foundation"
+        }
+    ]
+}
