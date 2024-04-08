@@ -1,0 +1,24 @@
+
+{
+"name": "Motion Amplification Project (MAV)",
+"description": "Project aimed at amplifying motion signals for enhanced visualization and analysis.",
+"image": "https://raw.githubusercontent.com/ARTHON9611/VibraSense/main/Static/main.jpg",
+"attributes": [
+{
+"trait_type": "Objective",
+"value": "Motion signal amplification"
+},
+{
+"trait_type": "Technology",
+"value": "Motion Amplification Algorithm"
+},
+{
+"trait_type": "Application",
+"value": "Vibration analysis, Structural health monitoring"
+},
+{
+"trait_type": "Implementation",
+"value": "Computer Vision, Signal Processing"
+}
+]
+}
