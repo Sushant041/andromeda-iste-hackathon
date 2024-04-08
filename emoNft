@@ -1,0 +1,19 @@
+{
+  "name": "Emotion Detection AI",
+  "description": "AI model trained to detect and classify emotions from images.",
+  "image": "https://imgs.search.brave.com/LrXe7S-7FAuVFvdBC-PYKlJom-znNqXSf5DKk0P9r5c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly92aXNh/Z2V0ZWNobm9sb2dp/ZXMuY29tL2FwcC91/cGxvYWRzLzIwMjIv/MDcvRmFjZS1BbmFs/eXNpcy1lbW90aW9u/LWVzdGltYXRpb24u/d2VicA",
+  "attributes": [
+    {
+      "trait_type": "Application",
+      "value": "Emotion Detection"
+    },
+    {
+      "trait_type": "Technology",
+      "value": "Artificial Intelligence"
+    },
+    {
+      "trait_type": "Usage",
+      "value": "Image Analysis"
+    }
+  ]
+}
