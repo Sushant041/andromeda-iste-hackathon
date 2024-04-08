@@ -1,0 +1,23 @@
+{
+    "name": "Autonomous Drone",
+    "description": "Cutting-edge drone equipped with autonomous navigation and surveillance capabilities.",
+    "image": "https://imgs.search.brave.com/Tp5JNkdURXJmNbNRQmLfQ4YwG9oOa-lkz0L0kBvUc6M/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jbXIu/YmVya2VsZXkuZWR1/L2Fzc2V0cy9pbWFn/ZXMvYmxvZy9qb3No/LXNvcmVuc29uLW91/dWlneXdieGxpLXVu/c3BsYXNoLmpwZw",
+    "attributes": [
+        {
+            "trait_type": "Capabilities",
+            "value": "Autonomous navigation, Surveillance"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "AI-driven drone technology"
+        },
+        {
+            "trait_type": "Applications",
+            "value": "Security, Monitoring, Aerial surveys"
+        },
+        {
+            "trait_type": "Features",
+            "value": "Real-time data transmission, Obstacle avoidance"
+        }
+    ]
+}
