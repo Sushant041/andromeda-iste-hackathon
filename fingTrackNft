@@ -1,0 +1,23 @@
+{
+    "name": "Finger Tracker",
+    "description": "Cutting-edge finger tracking device for precise and intuitive control.",
+    "image": "https://imgs.search.brave.com/9FBTPVMCRj7RuI6maSMLdR2qm8xYmVmq60ohCH8TcwQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jbXMu/dWx0cmFsZWFwLmNv/bS9hcHAvdXBsb2Fk/cy8yMDIwLzAyL3Bh/Z2VfaGVyby5qcGc",
+    "attributes": [
+        {
+            "trait_type": "Capabilities",
+            "value": "Finger tracking, Gesture recognition"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Advanced sensor technology, Computer Vision"
+        },
+        {
+            "trait_type": "Applications",
+            "value": "Virtual reality, Augmented reality, Human-computer interaction"
+        },
+        {
+            "trait_type": "Features",
+            "value": "Real-time tracking, Precise control"
+        }
+    ]
+}
