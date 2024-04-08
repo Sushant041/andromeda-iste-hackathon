@@ -1,0 +1,23 @@
+{
+    "name": "Tumor Detection System",
+    "description": "System designed to detect tumors in medical images.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjrXVdTaQ8XqCETi_8ynkRT1uoQ4iTNme_0CfAG93vA&s",
+    "attributes": [
+        {
+            "trait_type": "Technology",
+            "value": "Medical Imaging Analysis"
+        },
+        {
+            "trait_type": "Functionality",
+            "value": "Detect tumors in medical images"
+        },
+        {
+            "trait_type": "Applications",
+            "value": "Medical diagnosis, Radiology"
+        },
+        {
+            "trait_type": "Implementation",
+            "value": "Machine Learning, Medical Imaging Software"
+        }
+    ]
+}
