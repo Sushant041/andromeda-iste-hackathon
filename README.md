@@ -1,4 +1,4 @@
-```markdown
+
 # Syntax Sorcerers
 
 ## Overview
