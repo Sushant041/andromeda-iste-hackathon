@@ -1,0 +1,23 @@
+{
+    "name": "Video Summarizer",
+    "description": "Innovative project that automatically generates concise summaries of videos.",
+    "image": "https://imgs.search.brave.com/19A-dHsxkh4eupfTB84TnBlLV_argHNIBZeNlMv0Pyw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVyZXNhbmFp/Zm9ydGhhdC5jb20v/aWNvbnMvdmlkZW8t/c3VtbWFyaXphdGlv/bi5zdmc_aGVpZ2h0/PTIwNw.svg",
+    "attributes": [
+        {
+            "trait_type": "Project Type",
+            "value": "Video Summarization"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Machine Learning, Natural Language Processing"
+        },
+        {
+            "trait_type": "Features",
+            "value": "Automatic Summarization, Keyframe Extraction"
+        },
+        {
+            "trait_type": "Application",
+            "value": "Content Creation, Video Analysis"
+        }
+    ]
+}
