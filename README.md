@@ -1,9 +1,7 @@
-
-# Syntax Sorcerers
+## Syntax Sorcerers
+# AI Model Marketplace
 
 ## Overview
-
-#AI Market Place
 
 The AI Model Marketplace is a decentralized platform that facilitates the buying, selling, and licensing of AI models and algorithms. Powered by blockchain technology, our platform connects developers, data scientists, and organizations, enabling them to exchange innovative AI solutions across various industries.
 
@@ -65,6 +63,13 @@ To deploy the project locally, follow these steps:
 7. API routes can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in pages/api/hello.ts.
 8. The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
 
+## Photos and Videos
+
+Include photos and videos showcasing the features and functionality of the AI Model Marketplace.
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any new features, improvements, or bug fixes.
+```
+
+You can add photos and videos by providing their paths or URLs in the "Photos and Videos" section. Make sure to replace `"path/to/system_architecture.png"` with the actual path or URL to the system architecture image.
