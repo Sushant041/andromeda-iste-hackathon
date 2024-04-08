@@ -1,5 +1,5 @@
-# Team Syntax Sorcerers
-# AI Model Marketplace
+#  Syntax Sorcerers
+## AI Model Marketplace
 
 ## Overview
 
