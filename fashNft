@@ -1,0 +1,23 @@
+{
+    "name": "Fashion AI",
+    "description": "Cutting-edge fashion AI project enabling virtual try-on experiences for users.",
+    "image": "https://drive.google.com/uc?export=view&id=1jY4oYWmC4ENfBiwm9ASPhZacWmEI8VSu",
+    "attributes": [
+        {
+            "trait_type": "Project Type",
+            "value": "Fashion AI - Virtual Try-On"
+        },
+        {
+            "trait_type": "Technology",
+            "value": "Artificial Intelligence, Augmented Reality"
+        },
+        {
+            "trait_type": "Features",
+            "value": "Virtual Try-On, Clothing Recommendation"
+        },
+        {
+            "trait_type": "Application",
+            "value": "E-commerce, Fashion Industry"
+        }
+    ]
+}
