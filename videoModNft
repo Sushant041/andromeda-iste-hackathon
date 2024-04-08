@@ -1,0 +1,19 @@
+{
+  "name": "Voice Modulation AI",
+  "description": "AI system designed to modify or alter the characteristics of human voice recordings.",
+  "image": "https://imgs.search.brave.com/N9auJ9lZs9YncUnj7KnKLgccQaHoWBGadV8y46pGIRs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tYWNo/aW5lbGFicy5haS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/NS9BaS1Wb2ljZS1N/b2R1bGF0aW9uLnBu/Zw",
+  "attributes": [
+    {
+      "trait_type": "Application",
+      "value": "Voice Modulation"
+    },
+    {
+      "trait_type": "Technology",
+      "value": "Artificial Intelligence"
+    },
+    {
+      "trait_type": "Usage",
+      "value": "Audio Processing"
+    }
+  ]
+}
