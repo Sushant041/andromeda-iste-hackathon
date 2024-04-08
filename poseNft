@@ -1,0 +1,23 @@
+{
+"name": "Pose Detection System",
+"description": "System designed to detect and analyze human poses from images or videos.",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFesDUsHkncLFMB_E3_PbtmMKK1fFx5dsja8X25jXggg&s",
+"attributes": [
+{
+"trait_type": "Technology",
+"value": "Computer Vision"
+},
+{
+"trait_type": "Functionality",
+"value": "Detect and analyze human poses"
+},
+{
+"trait_type": "Applications",
+"value": "Fitness tracking, Biomechanics analysis, Gesture recognition"
+},
+{
+"trait_type": "Implementation",
+"value": "Deep Learning, OpenCV"
+}
+]
+}
